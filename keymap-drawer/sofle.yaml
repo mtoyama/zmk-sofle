@@ -61,10 +61,10 @@ layers:
   - FARROWRGB
   - {t: \, s: '|'}
   - {t: Util, h: toggle}
-  - {t: '$$mdi:keyboard-return$$', type: enter}
-  - Util
-  - $$mdi:apple-keyboard-control$$
-  - $$mdi:backspace-reverse-outline$$
+  - $$mdi:arrow-up-bold$$
+  - $$mdi:arrow-down-bold$$
+  - $$mdi:arrow-left-bold$$
+  - $$mdi:arrow-right-bold$$
   FARROWRGB:
   - {t: '$$mdi:transfer$$', type: trans}
   - F1
@@ -192,6 +192,6 @@ layers:
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
